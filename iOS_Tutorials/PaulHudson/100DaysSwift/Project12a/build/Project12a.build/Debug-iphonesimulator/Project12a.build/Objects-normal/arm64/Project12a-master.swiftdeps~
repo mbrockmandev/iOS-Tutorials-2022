@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "e838e16d493cadfca0d2a94150e2bd2d59d2c4ec1cb7b3b01b879c12a4e1ba2b"
+build_start_time: [1663186570, 71611881]
+build_end_time: [1663186570, 90283870]
+inputs:
+  "/Users/mike/Developer/iOS_Tutorials/PaulHudson/Project12a/Project12a/AppDelegate.swift": !private [1663000836, 16579151]
+  "/Users/mike/Developer/iOS_Tutorials/PaulHudson/Project12a/Project12a/Person.swift": !private [1663186084, 308385133]
+  "/Users/mike/Developer/iOS_Tutorials/PaulHudson/Project12a/Project12a/PersonCell.swift": !private [1663001247, 368572235]
+  "/Users/mike/Developer/iOS_Tutorials/PaulHudson/Project12a/Project12a/SceneDelegate.swift": !private [1663000836, 19372940]
+  "/Users/mike/Developer/iOS_Tutorials/PaulHudson/Project12a/Project12a/ViewController.swift": !private [1663030441, 315067529]
