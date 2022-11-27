@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "2wx-W6-Xtf"; */
+"2wx-W6-Xtf.text" = "Name";
+
+/* Class = "UILabel"; text = "Artist Name"; ObjectID = "Aoz-9R-WUd"; */
+"Aoz-9R-WUd.text" = "Artist Name";
+
+/* Class = "UILabel"; text = "Kind Value"; ObjectID = "GYZ-x7-aur"; */
+"GYZ-x7-aur.text" = "Kind Value";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qfi-6Q-zzg"; */
+"Qfi-6Q-zzg.normalTitle" = "Button";
+
+/* Class = "UISearchBar"; placeholder = "App name, artist, song, album, e-book"; ObjectID = "UNB-3a-agn"; */
+"UNB-3a-agn.placeholder" = "Naam van artiest, nummer, album";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "YoR-oh-1A6"; */
+"YoR-oh-1A6.text" = "Soort:";
+
+/* Class = "UIButton"; configuration.title = "$9.99"; ObjectID = "e3D-QU-yLa"; */
+"e3D-QU-yLa.configuration.title" = "$9.99";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "e3D-QU-yLa"; */
+"e3D-QU-yLa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Genre Value"; ObjectID = "eky-1F-Mi7"; */
+"eky-1F-Mi7.text" = "Genre Value";
+
+/* Class = "UISegmentedControl"; hSA-c3-Zw6.segmentTitles[0] = "All"; ObjectID = "hSA-c3-Zw6"; */
+"hSA-c3-Zw6.segmentTitles[0]" = "Allez";
+
+/* Class = "UISegmentedControl"; hSA-c3-Zw6.segmentTitles[1] = "Music"; ObjectID = "hSA-c3-Zw6"; */
+"hSA-c3-Zw6.segmentTitles[1]" = "Muziek";
+
+/* Class = "UISegmentedControl"; hSA-c3-Zw6.segmentTitles[2] = "Software"; ObjectID = "hSA-c3-Zw6"; */
+"hSA-c3-Zw6.segmentTitles[2]" = "Software";
+
+/* Class = "UISegmentedControl"; hSA-c3-Zw6.segmentTitles[3] = "E-books"; ObjectID = "hSA-c3-Zw6"; */
+"hSA-c3-Zw6.segmentTitles[3]" = "E-boeken";
+
+/* Class = "UILabel"; text = "Genre:"; ObjectID = "x9k-WI-A0l"; */
+"x9k-WI-A0l.text" = "Genre:";
